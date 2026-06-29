@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyses retail sales data for a chain of stores using business intelligence tools and techniques. The aim was to clean, prepare, query, visualise and interpret sales, stock, product, store and city data to support better business decision-making.
+As the capstone project for my IBM Business Intelligence (BI) Analyst Professional Certificate, this project analyses retail sales data for a chain of stores using business intelligence tools and techniques. The aim was to clean, prepare, query, visualise and interpret sales, stock, product, store and city data to support better business decision-making.
 
-The project follows a full BI workflow: data preparation in Excel and Power Query, exploratory analysis using pivot tables, SQL querying in PostgreSQL, statistical analysis in Excel, and dashboard creation in Tableau.
+The project follows a full BI workflow: data preparation in Excel and Power Query, exploratory analysis using pivot tables, SQL querying in PostgreSQL, statistical analysis in Excel, and dashboard creation in Tableau and IBM Cognos Analytics.
 
 ## Business Scenario
 
@@ -20,14 +20,13 @@ The retail chain operates across multiple stores, cities and product categories.
 - Tableau
 - Regression Analysis
 - Data Visualisation
+- IBM Cognos Analytics
 
 ## Data Used
 
 The analysis started with several related retail datasets, including sales data, product information, product hierarchy data, store data and city/location data.
 
-The main fields used in the analysis included product ID, product name, store ID, store name, city ID, city name, sales date, sales volume, revenue, stock, price and promotional fields.
-
-> Note: Raw data files are not included in this repository if they are restricted by the course provider. The repository focuses on documentation, SQL scripts, screenshots and final presentation outputs.
+The main fields used in the analysis included product ID, store ID, store name, city ID, city name, sales date, sales volume, revenue, stock, price and promotional fields.
 
 ## Project Workflow
 
@@ -77,7 +76,6 @@ retail-bi-capstone-sales-analysis/
 ├── presentation/
 ├── screenshots/
 ├── sql/
-├── tableau/
 └── data/
 ```
 
